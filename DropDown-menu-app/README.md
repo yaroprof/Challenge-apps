@@ -5,7 +5,9 @@ Here’s the README in Markdown format for your GitHub repository:
 
 A fully functional dropdown component with infinite scroll, designed for smooth user interaction and optimized performance.
 
-![Dropdown Component Screenshot](./image.png)
+![Dropdown Component Screenshot](./screenshot.png)
+
+
 
 ## Features
 
